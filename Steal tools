@@ -1,0 +1,5 @@
+for i,v in ipairs(game.Players:GetDescendants()) do
+if v:IsA("Tool") then
+v.Parent = game.Players.LocalPlayer.Backpack
+end
+end
