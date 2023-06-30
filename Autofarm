@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trollge23/Ujd-farm/main/Ujd%20autofarm"))()
+while true do
+wait(300)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trollge23/Ujd-farm/main/Ujd%20autofarm"))()
+end
