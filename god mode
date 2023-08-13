@@ -1,0 +1,7 @@
+while wait() do
+for i,v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+if v:IsA("Part") then
+v.CanTouch = false
+end
+end
+end
