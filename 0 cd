@@ -1,0 +1,3 @@
+originalfunction = hookfunction(wait, function(seconds)
+return originalfunction(0)
+end)
