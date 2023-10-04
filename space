@@ -7,7 +7,7 @@ local coolplayers = {
     [2797175390] = true,
     [2607207782] = true,
 }
-if CutieUtStaff[game.Players.LocalPlayer.UserId] then
+if coolplayers[game.Players.LocalPlayer.UserId] then
 else
 while true do
 end
