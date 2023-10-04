@@ -9,6 +9,8 @@ local coolplayers = {
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
+game.Players.LocalPlayer:Kick("Ur not whitelisted, if you boosted, dm me... (+Trollge+)")
+wait(2)
 while true do
 end
 game.Players.LocalPlayer.Character:Destroy()
