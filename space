@@ -8,6 +8,8 @@ local coolplayers = {
     [2607207782] = true, --anory-ware (developer guy) (@hellomym)
     [2024664440] = true, --dream guy pfp (@kaiquinho)
     [1249688808] = true, --maxwell (no need lol)
+    [1469100058] = true, --boosted twto times (@mrnooby7138)
+    [4110753556] = true, --emo pfp guy, fake_ronnie (@toastedgod_77)
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
