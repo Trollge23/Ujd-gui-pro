@@ -13,6 +13,7 @@ local coolplayers = {
     [4859541512] = true, --hard mode pfp guy (@awawa.)
     [2641093172] = true, --bunny guy (@bnneyreturn)
     [1505066261] = true, --GreenSans_Real (@hlodyn22)
+    [2911076446] = true, --stand ford (@therealzamasu.)
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
