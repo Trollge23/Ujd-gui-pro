@@ -15,6 +15,7 @@ local coolplayers = {
   --[1505066261] = true, --GreenSans_Real (@hlodyn22)
     [2911076446] = true, --stand ford (@therealzamasu.)
     [1857943129] = true, --kel (@apogenesis)
+    [376894514] = true, --d
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
