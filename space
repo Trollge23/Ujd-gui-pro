@@ -1,21 +1,21 @@
 local coolplayers = {
     [2671042590] = true, --ME
-    [0933286168] = true, --sans guy  (@yosef7605)
-    [216710683] = true, --the painter (@studentpainter)
-    [3621669301] = true, --guy with a shoe pfp (@h_1_34)
+    --[0933286168] = true, --sans guy  (@yosef7605)
+    --[216710683] = true, --the painter (@studentpainter)
+    --[3621669301] = true, --guy with a shoe pfp (@h_1_34)
     [465771075] = true, --clivz (not needed)
-    [2797175390] = true, --chat pfp guy (not needed too)
-  --[2607207782] = true, --anory-ware (developer guy) (@hellomym)
-    [2024664440] = true, --dream guy pfp (@kaiquinho)
-    [1249688808] = true, --maxwell (no need lol)
-    [1469100058] = true, --boosted twto times (@mrnooby7138)
-    [4110753556] = true, --emo pfp guy, fake_ronnie (@toastedgod_77)
-    [4859541512] = true, --hard mode pfp guy (@awawa.)
-    [2641093172] = true, --bunny guy (@bnneyreturn)
-  --[1505066261] = true, --GreenSans_Real (@hlodyn22)
-    [2911076446] = true, --stand ford (@therealzamasu.)
-    [1857943129] = true, --kel (@apogenesis)
-    [376894514] = true, --d
+    --[2797175390] = true, --chat pfp guy (not needed too)
+    --[2607207782] = true, --anory-ware (developer guy) (@hellomym)
+    --[2024664440] = true, --dream guy pfp (@kaiquinho)
+    --[1249688808] = true, --maxwell (no need lol)
+    --[1469100058] = true, --boosted twto times (@mrnooby7138)
+    --[4110753556] = true, --emo pfp guy, fake_ronnie (@toastedgod_77)
+    --[4859541512] = true, --hard mode pfp guy (@awawa.)
+    --[2641093172] = true, --bunny guy (@bnneyreturn)
+    --[1505066261] = true, --GreenSans_Real (@hlodyn22)
+    --[2911076446] = true, --stand ford (@therealzamasu.)
+    --[1857943129] = true, --kel (@apogenesis)
+    --[376894514] = true, --d
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
