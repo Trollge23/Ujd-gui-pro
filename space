@@ -1,6 +1,6 @@
 local coolplayers = {
     [2671042590] = true, --ME
-    --[0933286168] = true, --sans guy  (@yosef7605)
+    [2002207494] = true, --pikachu
     --[216710683] = true, --the painter (@studentpainter)
     --[3621669301] = true, --guy with a shoe pfp (@h_1_34)
     [465771075] = true, --clivz (not needed)
