@@ -1,7 +1,7 @@
 local coolplayers = {
     [2671042590] = true, --ME
     [2002207494] = true, --pikachu
-    --[216710683] = true, --the painter (@studentpainter)
+    [1499521508] = true, --notakeed
     --[3621669301] = true, --guy with a shoe pfp (@h_1_34)
     [465771075] = true, --clivz (not needed)
     --[2797175390] = true, --chat pfp guy (not needed too)
