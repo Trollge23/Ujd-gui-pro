@@ -14,7 +14,7 @@ local coolplayers = {
     --[2641093172] = true, --bunny guy (@bnneyreturn)
     --[1505066261] = true, --GreenSans_Real (@hlodyn22)
     --[2911076446] = true, --stand ford (@therealzamasu.)
-    --[1857943129] = true, --kel (@apogenesis)
+    [1388090810] = true, --error sans (@elespantaviejas1000)
     [216710683] = true, --the painter
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
