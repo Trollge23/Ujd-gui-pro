@@ -1,13 +1,13 @@
 local coolplayers = {
     [2671042590] = true, --ME
-    [2002207494] = true, --pikachu
+   -- [2002207494] = true, --pikachu
     [1499521508] = true, --notakeed
     [1613701400] = true, --fatal sans pfp (@something.new)
     [465771075] = true, --clivz (not needed)
     [317415492] = true, --cat pfp (@nbbrr)
-    [689312245] = true, --soy ese
+    --[689312245] = true, --soy ese
     [1059974131] = true, --FBI (@probably_zeph)
-    [1249688808] = true, --maxwell (no need lol)
+    --[1249688808] = true, --maxwell (no need lol)
     [1469100058] = true, --boosted twto times (@mrnooby7138)
     [2983833850] = true, --gojo (@cosmic4876)
     [4859541512] = true, --hard mode pfp guy (@awawa.)
