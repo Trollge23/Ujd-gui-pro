@@ -1,22 +1,22 @@
 local coolplayers = {
     [2671042590] = true, --ME
    -- [2002207494] = true, --pikachu
-    [1499521508] = true, --notakeed
-    [1613701400] = true, --fatal sans pfp (@something.new)
+   --[1499521508] = true, --notakeed
+    --[1613701400] = true, --fatal sans pfp (@something.new)
     [465771075] = true, --clivz (not needed)
-    [317415492] = true, --cat pfp (@nbbrr)
+   -- [317415492] = true, --cat pfp (@nbbrr)
     --[689312245] = true, --soy ese
-    [1059974131] = true, --FBI (@probably_zeph)
+    --[1059974131] = true, --FBI (@probably_zeph)
     [1621869428] = true, -- (@sonicfan20212.)
-    [1469100058] = true, --boosted twto times (@mrnooby7138)
+  --[1469100058] = true, --boosted twto times (@mrnooby7138)
     [2983833850] = true, --gojo (@cosmic4876)
-    [4859541512] = true, --hard mode pfp guy (@awawa.)
+   -- [4859541512] = true, --hard mode pfp guy (@awawa.)
     [1912818716] = true, --MEF (@nosoftware)
     [1508840217] = true, --ZEP (@zepthyx20)
-    [1019798713] = true, --eclipse (@.serenityeclipse.)
-    [1388090810] = true, --error sans (@elespantaviejas1000)
+    --[1019798713] = true, --eclipse (@.serenityeclipse.)
+    --[1388090810] = true, --error sans (@elespantaviejas1000)
     [216710683] = true, --the painter
-    [2607207782] = true, --(@hellomym)
+   -- [2607207782] = true, --(@hellomym)
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
