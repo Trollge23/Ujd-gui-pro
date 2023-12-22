@@ -8,16 +8,16 @@ local coolplayers = {
     --[689312245] = true, --soy ese
     --[1059974131] = true, --FBI (@probably_zeph)
     [1621869428] = true, -- (@sonicfan20212.)
-  --[1469100058] = true, --boosted twto times (@mrnooby7138)
+    [1421967082] = true, --(@andres6286)
     [2983833850] = true, --gojo (@cosmic4876)
-   -- [4859541512] = true, --hard mode pfp guy (@awawa.)
+    [1421967082] = true, --corns (@pop8457)
     [1912818716] = true, --MEF (@nosoftware)
     [1508840217] = true, --ZEP (@zepthyx20)
-    --[1019798713] = true, --eclipse (@.serenityeclipse.)
+    [4116177626] = true, --Antony-warfare (@hellomym)
     [1485591192] = true, -- (@mike12r)
     [216710683] = true, --the painter
     [2823337856] = true, --(@danishhx.)
-    [150847608] = true --(@officialmad)
+    [150847608] = true, --(@officialmad)
 }
 if coolplayers[game.Players.LocalPlayer.UserId] then
 else
