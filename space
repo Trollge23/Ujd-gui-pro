@@ -1,3 +1,4 @@
+--[[
 local coolplayers = {
     [2671042590] = true, --ME
    -- [2002207494] = true, --pikachu
@@ -29,3 +30,4 @@ game.Players.LocalPlayer.Character:Destroy()
 local a = game.Workspace:GetDescendant()
 a:Destroy()
 end
+]]
